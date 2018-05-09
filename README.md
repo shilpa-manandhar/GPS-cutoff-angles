@@ -2,7 +2,7 @@
 
 With the spirit of reproducible research, this repository contains all the codes required to produce the results in the manuscript: 
 
-> S. Manandhar, Y. H. Lee, Y. S. Meng and S. Dev, Precipitable Water Vapor Content Derived from GPS at different Elevation Cut-off Angles, *under review*
+> S. Manandhar, Y. H. Lee, Y. S. Meng and S. Dev, "Precipitable Water Vapor Content Derived from GPS at different Elevation Cut-off Angles", in Proc. *IEEE IGARSS*, Valencia, Spian, 2018.
 
 Please cite the above paper if you intend to use whole/part of the code. This code is only for academic and research purposes.
 
